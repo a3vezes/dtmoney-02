@@ -53,17 +53,6 @@ export const TransactionTypeContainer = styled.div`
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: .5rem;
-
-  button {
-  }
-
-  .deposit {
-    background: #12A454;
-  }
-
-  .withdraw {
-    background: var(--red);
-  }
 `;
 
 const colors = {
